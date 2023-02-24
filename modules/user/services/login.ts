@@ -1,1 +1,1 @@
-export const loginHandler = (ctx: { body: { pass: string } }) => {}
+export const loginHandler = (ctx: { body: { pass: string } }) => 'nice'
